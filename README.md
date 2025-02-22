@@ -43,4 +43,4 @@ java -cp "path/to/mahout-core.jar:." com.example.RecommendationSystem
 ```
 
 ### 3️⃣ Output
-
+![Image](https://github.com/user-attachments/assets/7ed625f0-a55b-4a4d-8fee-47f7e636585e)
